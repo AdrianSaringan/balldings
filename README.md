@@ -10,11 +10,6 @@ Scheduling conflicts and overlapping matches due to informal coordination
 Difficulties in age verification and player eligibility checks
 Limited community participation due to operational inefficiencies
 
-System Objectives
-1. To determine the existing process of barangay sports management
-2. To describe the features of the system
-3. To test the usability of the system
-
 Key Features
 Core Functionalities
 •	Digital Registration: Streamlined registration for players, coaches, and referees
